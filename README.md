@@ -21,5 +21,3 @@ We prototype responsibly, audit transparently, and deliver tools that uphold **p
 ---
 
 ✨ *Innovating in silence. Impacting at scale.* 🖤  
-
-© 2025 Anon Developers Lab
